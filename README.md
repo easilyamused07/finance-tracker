@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 #finance-tracker app
+
+https://git.heroku.com/finance-tracker-sample.git
